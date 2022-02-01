@@ -23,16 +23,14 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 **Talking about Education/Skills:**
 
-- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
--  python 
--  Data Science , Machine Learning, Deep Learning and Web development
-- Python , Java, JavaScript, C, C#
+-  Working at NETTANTRA TECHNOLOGIES, Bhubaneshwar
+-  Web development
+-  Python , Java, JavaScript, C
 -  Html, CSS, Java Script, JQuery, BootStrap, React
 -  DBMS, MySQL, MongoDB
--  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prudhvi.gnv@gmail.com
+- 📫 How to reach me: aman2871@gmail.com
 
 &nbsp;
 
