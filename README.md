@@ -12,8 +12,6 @@
 <br />
 <br />
 
-Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
-
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
@@ -23,9 +21,9 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 **Talking about Education/Skills:**
 
--  Working at NETTANTRA TECHNOLOGIES, Bhubaneshwar
+-  Working at HYSCALER, Bhubaneshwar
 -  Web development
--  Python , Java, JavaScript, C
+-  Python, Django, ReactJS, React-Native
 -  Html, CSS, Java Script, JQuery, BootStrap, React
 -  DBMS, MySQL, MongoDB
 
