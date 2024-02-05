@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/aman2871/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/">
   <img align="left" alt="Aman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
