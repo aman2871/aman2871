@@ -21,11 +21,10 @@
 
 **Talking about Education/Skills:**
 
--  Working at HYSCALER, Bhubaneshwar
--  Web development
--  Python, Django, ReactJS, React-Native
--  Html, CSS, Java Script, JQuery, BootStrap, React
--  DBMS, MySQL, MongoDB
+-  Working at CHARTR, New Delhi
+-  Backend Developer
+-  Python, Django
+-  DBMS, MySQL, PostgreSQL
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: aman2871@gmail.com
